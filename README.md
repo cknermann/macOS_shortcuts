@@ -32,7 +32,7 @@ Der Kurzbefehl ["4 - Archiv erstellen (Outlook).shortcut"](https://github.com/ck
 
 ![POWERMODE](media/05_powermode.png)
 
-Der Kurzbefehl ["5 - Stromsparmodus.shortcut"](https://github.com/cknermann/macOS_shortcuts/blob/main/5%20-%20Stromsparmodus.shortcut?raw=true) schaltet den Stromsparmodus des Betriebssystems um. Dazu kommt das Shell-Skript aus [Listing 2](https://github.com/cknermann/macOS_shortcuts/blob/main/Listing2.sh) zum Einsatz. Ist der Stromsparmodus aktiv, schaltet das Skript ihn aus, und umgekehrt.
+Der Kurzbefehl ["5 - Stromsparmodus.shortcut"](https://github.com/cknermann/macOS_shortcuts/blob/main/5%20-%20Stromsparmodus.shortcut?raw=true) schaltet den Stromsparmodus des Betriebssystems um. Dazu kommt das Shell-Skript aus [Listing 2](https://github.com/cknermann/macOS_shortcuts/blob/main/Listing2.sh) zum Einsatz. Ist der Stromsparmodus inaktiv, schaltet das Skript ihn ein, und umgekehrt.
 
 ## 6 - Bilder skalieren
 
