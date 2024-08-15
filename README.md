@@ -2,7 +2,7 @@
 
 ![SHORTCUTS](media/shortcuts.png)
 
-Dieses Repository dient als Ergänzung zu meinem Artikel über die Kurzbefehle unter Apple macOS Monterey 12, der voraussichtlich in der Ausgabe 4/2022 vom [IT-Administrator](https://it-administrator.de) erscheinen wird. Die folgenden Beispiele wurden unter Apple macOS Monterey 12.1 getestet. Sie stehen zur freien Verfügung und Veränderung zum Download bereit, allerdings ohne Haftung oder Gewähr für korrekte Funktion.
+Dieses Repository diente ursprünglich als Ergänzung zu meinem Artikel über die Kurzbefehle unter Apple macOS Monterey 12, der in der Ausgabe 4/2022 vom [IT-Administrator](https://it-administrator.de) erschienen ist. Die folgenden Beispiele wurden unter Apple macOS Monterey 12.1 bis Sonoma 14.6.1 getestet. Sie stehen zur freien Verfügung und Veränderung zum Download bereit, allerdings ohne Haftung oder Gewähr für korrekte Funktion.
 
 ## 1 - Archiv erstellen (Ordner)
 
@@ -39,3 +39,9 @@ Der Kurzbefehl ["5 - Stromsparmodus.shortcut"](https://github.com/cknermann/macO
 ![SIZE-IMAGES](media/06_size-images.png)
 
 Der Kurzbefehl ["6 - Bilder skalieren.shortcut"](https://github.com/cknermann/macOS_shortcuts/blob/main/6%20-%20Bilder%20skalieren.shortcut?raw=true) nimmt Bilder aus dem Finder entgegen, ändert deren Größe und und speichert die geänderten Bilder im gewünschten Zielordner.
+
+## 7 - Mail mit Anhang (Thunderbird)
+
+![SIZE-IMAGES](media/07_file-to-thunderbird.png)
+
+Der Kurzbefehl ["7 - Mail mit Anhang (Thunderbird).shortcut"](https://github.com/cknermann/macOS_shortcuts/blob/main/7%20-%20Mail%20mit%20Anhang%20(Thunderbird).shortcut?raw=true) nimmt ein oder mehrere Dateien aus dem Finder entgegen und hängt diese an eine neue E-Mail in Mozilla Thunderbird. Dazu kommt das AppleScript aus [Listing 3](https://github.com/cknermann/macOS_shortcuts/blob/main/Listing3.applescript) zum Einsatz.
